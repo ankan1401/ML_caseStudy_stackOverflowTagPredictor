@@ -31,7 +31,7 @@ Dataset contains 6,034,195(~6M) rows. The columns in the table are:<br>
   <ol>Separate code from body and remove special characters from question title and description</ol>
   <ol>Give more weightage to title : Add title three times to the question</ol>
   <ol>Remove stop words (except 'C'), HTML tags</ol>
-  <ol>Convert all the characters into small letters and use SnowballStemmer to stem the words
+  <ol>Convert all the characters into small letters and use SnowballStemmer to stem the words</ol>
 </p>
 
 <h2> Data Preparation: </h2>
